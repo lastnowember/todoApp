@@ -10,7 +10,10 @@ $(document).ready(function() {
 
 	$('input[type="checkbox"]').click(function() {
 		var check = $('input[type="checkbox"]').prop('checked');
+<<<<<<< HEAD
 		console.log(check);
+=======
+>>>>>>> 4d3f20a72b43e3e9354b08ab182c1adbb32abfbe
 		if (check == true) {
 			$('.task').css("text-decoration","line-through");
 		}
