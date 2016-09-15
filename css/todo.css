@@ -41,6 +41,11 @@ body {
 	margin-bottom: 5px;
 }
 
+.checki {
+	text-decoration: none;
+	border: 0;
+}
+
 .checktask {
 	width:30px;
 }
